@@ -1,0 +1,13 @@
+# git basic
+- git init - initializing a git repo
+- git add <file> - add file to local stage
+- git commit -m "your commit words" - upload to local repo
+- git status - get info about status
+- git log - get log info about commit
+- git diff <--staged/--cached> - get diff info
+- git remote add origin <remote repo url> - set remote origin repo
+- git push -u <remote> <brance> - push your repo to remote, '-u' for remember your info
+- git pull <remote> <brance> - fetch remote repo and merge to local branch
+- git branch - get branch info or create new branch by end with brance name
+- git checkout <branch> - switch to another branch
+- git rm - ...
